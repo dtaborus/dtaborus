@@ -1,16 +1,15 @@
 ## Hi there 👋
+# ¡Hola! Soy Danny Taborda 👋
 
-<!--
-**dtaborus/dtaborus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Analista de Telecomunicaciones Nivel 2 con enfoque en redes, seguridad y ciberseguridad. Apasionado por la tecnología y en constante aprendizaje.
 
-Here are some ideas to get you started:
+🔧 **Áreas de interés:**  
+- Redes de datos y seguridad (Fortinet, SD-WAN, Cisco, Mikrotik)  
+- Ciberseguridad (En formación con CS50 y Fortinet NSE4)  
+- Desarrollo de software (Python)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 [Ver mi CV aquí](https://drive.google.com/file/d/1kTG1m37YojD5XaFxuHlDUJ2WhzvpiBbb/view?usp=sharing)
+
+🚀 Actualmente en proceso de fortalecer mis conocimientos en ciberseguridad y buscar nuevas oportunidades en el sector tecnológico.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danny%20Taborda-blue)](https://www.linkedin.com/in/danny-andrei-taborda-7ab007258/)
