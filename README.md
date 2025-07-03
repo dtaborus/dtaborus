@@ -5,9 +5,9 @@ Soy **Analista de Telecomunicaciones Nivel 2** con sólida experiencia en redes,
 ---
 
 ## 🔧 Áreas de interés  
-- Redes de datos (Cisco, Huawei, Mikrotik, Fortinet)  
-- Seguridad en redes y soluciones SD-WAN  
-- Ciberseguridad (actualmente cursando CS50's Introduction to Cybersecurity y Fortinet NSE4)  
+- Ciberseguridad (actualmente cursando CS50's Introduction to Cybersecurity y Fortinet NSE4)
+- Seguridad en redes y soluciones SD-WAN
+- Redes de datos (Cisco, Huawei, Mikrotik, Fortinet) 
 - Desarrollo de software (React, Python, Linux básico)  
 
 ---
